@@ -27,6 +27,8 @@ yarn-error.log*
 
 # local env files
 .env*.local
+/malancer-backend/.env
+/malancer-frontend/.env
 
 # vercel
 .vercel
